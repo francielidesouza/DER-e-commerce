@@ -16,8 +16,7 @@ O modelo foi desenvolvido para atender às principais operações de um e-commer
 
 ## 📊 Diagrama de Entidade-Relacionamento (DER)
 
-![Diagrama DER](images/diagrama_der.png)
-
+![Diagrama DER](DER E-commerce docs\img_ecommerce.png.png)
 
 ## 📍 Entidades e Regras de Negócio
 
