@@ -18,7 +18,6 @@ O modelo foi desenvolvido para atender às principais operações de um e-commer
 
 ![Diagrama DER](DER E-commerce docs\img_ecommerce.png.png)
 
-
 ## 📍 Entidades e Regras de Negócio
 
 ### 1️⃣ Cliente
